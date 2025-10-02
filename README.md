@@ -1,4 +1,4 @@
-#Surya Putra is Here!
+*#*Surya Putra Here!**
 
 Saya seorang mahasiswa Universitas Udayana yang sedang mendalami dunia **Pemrograman** dan **Database**.  
 Saat ini saya mengasah kemampuan di bidang:
@@ -7,6 +7,7 @@ Saat ini saya mengasah kemampuan di bidang:
 - 🛢️ **MySQL** untuk desain & manajemen database
 - 🎨 **HTML & CSS** untuk desain web
 - ⚡ **PHP & Framework Laravel** untuk pengembangan aplikasi web
+- 💥 **C, C++, Java untuk sides**
 
 ---
 
