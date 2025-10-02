@@ -1,12 +1,12 @@
-# 👋 Halo, saya Surya Putra!
+#Surya Putra is Here!
 
-Saya seorang mahasiswa yang sedang mendalami dunia **Pemrograman Web** dan **Database**.  
-Saat ini saya fokus mengasah kemampuan di bidang:
+Saya seorang mahasiswa Universitas Udayana yang sedang mendalami dunia **Pemrograman** dan **Database**.  
+Saat ini saya mengasah kemampuan di bidang:
 
 - 🐍 **Python** untuk pemrograman
 - 🛢️ **MySQL** untuk desain & manajemen database
 - 🎨 **HTML & CSS** untuk desain web
-- ⚡ **PHP & Laravel** untuk pengembangan aplikasi web
+- ⚡ **PHP & Framework Laravel** untuk pengembangan aplikasi web
 
 ---
 
@@ -14,15 +14,16 @@ Saat ini saya fokus mengasah kemampuan di bidang:
 - Web Development (Front-End & Back-End)
 - Database Design & Optimization
 - Open Source Collaboration
+- Game Dev (Possible Future Plans)
 
 ---
 
 ## 🔗 Socials
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:suryaputra11052006@gmail.com)
 
 ---
 
-## 💻 Tech Stack
+## 💻 Currently Doing The Following : 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -32,7 +33,7 @@ Saat ini saya fokus mengasah kemampuan di bidang:
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shiruto0808&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shiruto0808&layout=compact&theme=tokyonight)
